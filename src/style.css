@@ -1,0 +1,64 @@
+.resistor {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    width: 25%;
+    direction: rtl;
+}
+
+h1 {
+    display: block;
+    margin-left: 9%;
+}
+
+#black {
+    color: cornsilk;
+    background-color: black;
+}
+
+#red {
+    color: cornsilk;
+    background-color: red;
+}
+
+#white {
+    color: black;
+    background-color: whitesmoke;
+}
+
+#brown {
+    color: cornsilk;
+    background-color: brown;
+}
+
+#orange {
+    color: cornsilk;
+    background-color: orange;
+}
+
+#yellow {
+    color: black;
+    background-color: yellow;
+}
+
+#green {
+    color: cornsilk;
+    background-color: green;
+}
+
+#blue {
+    color: cornsilk;
+    background-color: blue;
+}
+
+#violet {
+    color: cornsilk;
+    background-color: violet;
+}
+
+#grey {
+    color: cornsilk;
+    background-color: grey;
+}
+
